@@ -1,0 +1,9 @@
+:root {
+    background-color: lightgreen;
+    color: darkblue;
+}
+
+li, p {
+    margin-top: 10px;
+    font-size: 22px;
+}
